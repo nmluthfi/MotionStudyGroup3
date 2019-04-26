@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotionStudyGroup3</string>
+    <string name="nama_menu">Nama Menu</string>
+    <string name="harga_menu">Harga Menu</string>
+    <string name="tambah_menu">Tambah Menu</string>
+    <string name="detail_menu">Detail Menu</string>
+</resources>

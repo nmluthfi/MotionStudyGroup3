@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "109876427579",
+    "firebase_url": "https://motionstudygroup3fix.firebaseio.com",
+    "project_id": "motionstudygroup3fix",
+    "storage_bucket": "motionstudygroup3fix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109876427579:android:7dc23b5586db21d0",
+        "android_client_info": {
+          "package_name": "com.example.motionstudygroup3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109876427579-mfiu0u4g3rbkok9ff20m281qnu6phemd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motionstudygroup3",
+            "certificate_hash": "453717160b3db34d2247ab399d29ab55dcce18c2"
+          }
+        },
+        {
+          "client_id": "109876427579-2c6jri6s2i5stdm9m7f93ebf9oklqu9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAebK15kg6d6Uo9Ygwr9mYO6LXskFrNBPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109876427579-2c6jri6s2i5stdm9m7f93ebf9oklqu9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
